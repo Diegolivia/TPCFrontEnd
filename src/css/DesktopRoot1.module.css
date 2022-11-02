@@ -1,0 +1,580 @@
+.desktopRootRoot {
+    width: 1440px;
+    gap: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  .flexColumn {
+    width: 194px;
+    height: 884px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 70px 0px;
+  }
+  .navbar {
+    height: 47.4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
+    margin: 0px 0px 64.6px 45px;
+  }
+  .dbbcdfbaafdPhotoRoom {
+    height: 47.4px;
+  }
+  .ellipse {
+    width: 101px;
+    height: 101px;
+    align-self: flex-start;
+    margin: 0px 0px 23.5px 39.8px;
+  }
+  .text1 {
+    align-self: flex-start;
+    margin: 0px 0px 7px 19px;
+    color: #0d0949;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .text2 {
+    align-self: flex-start;
+    margin: 0px 0px 66px 3px;
+    color: #b3b3b3;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .whiteFlexRow {
+    gap: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 25px 0px;
+    padding: 17px 22px 18px 22px;
+    border-radius: 20px;
+    background-color: #f3f7ff;
+  }
+  .text3 {
+    color: #5f75da;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .flexRow {
+    gap: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 42px 0px;
+    padding: 0px 22px;
+  }
+  .flexRow1 {
+    height: 21px;
+    gap: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 0px 43px 0px;
+    padding: 0px 22px;
+  }
+  .text5 {
+    align-self: flex-end;
+    color: #979797;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .flexRow2 {
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 43px 0px;
+    padding: 0px 25px 0px 22px;
+  }
+  .image2 {
+    width: 18px;
+    height: 16px;
+  }
+  .flexRow3 {
+    gap: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 43px 0px;
+    padding: 0px 22px;
+  }
+  .flexRow4 {
+    gap: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0px 0px 43px 0px;
+    padding: 0px 3px;
+  }
+  .image3 {
+    width: 20px;
+    height: 15.4px;
+    align-self: flex-start;
+    margin: 2px 0px 0px 0px;
+  }
+  .flexRow5 {
+    gap: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px 22px;
+  }
+  .flexColumn1 {
+    width: 0px;
+    height: 1024px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 576px 0px 586px;
+  }
+  .whiteFlexRow1 {
+    width: 1162px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 75px 0px 93px 0px;
+    border-radius: 80px 0px 0px 80px;
+    background-color: #f3f7ff;
+  }
+  .flexColumn2 {
+    width: 343px;
+    height: 848px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 23px 0px 0px;
+    padding: 4px 0px;
+  }
+  .text10 {
+    margin: 0px 0px 6px 0px;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .text11 {
+    margin: 0px 0px 25px 0px;
+    color: #c9c9c9;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .flexColumn3 {
+    width: 93px;
+    height: 225px;
+    gap: 29px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 0px 0px 48px 0px;
+    padding: 0px 34px 0px 33px;
+    border-radius: 20px;
+    background-image: linear-gradient(180deg, #4bb5ff 0%, #3f73ff 100%);
+  }
+  .whiteFlexColumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px 5px 0px 0px;
+    padding: 20px 21px 21px 20px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.36);
+  }
+  .inscription {
+    height: 41px;
+  }
+  .text12 {
+    width: 93px;
+    align-self: stretch;
+    color: #f8f8f8;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Montserrat;
+    text-align: center;
+  }
+  .text13 {
+    margin: 0px 0px 28px 0px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .flexColumn4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: stretch;
+  }
+  .whiteFlexColumn1 {
+    height: 440px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    border-radius: 20px;
+    background-color: #ffffff;
+  }
+  .donutchart {
+    height: 368px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 27.1px 0px;
+  }
+  .flexRow6 {
+    gap: 66px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 8.91px 0px;
+    padding: 0px 33.8px 0px 29.9px;
+  }
+  .flexColumn5 {
+    height: 23.2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
+  }
+  .ellipse4 {
+    height: 23.2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 9.66px;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/1zYLkXCL84zt2Ag6BSgu.svg");
+  }
+  .whiteRectangle {
+    height: 3.87px;
+    border-radius: 6px;
+    background-color: #ffffff;
+  }
+  .secondaryText1 {
+    align-self: flex-start;
+    margin: 0px 0px 21.8px 29.9px;
+    color: #4f4f4f;
+    font-size: 12px;
+    font-family: Inter;
+    white-space: nowrap;
+  }
+  .image5 {
+    height: 2px;
+    margin: 0px 0px 30px 0px;
+  }
+  .flexRow7 {
+    width: 220px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px 61.8px 0px 60.9px;
+  }
+  .ellipse5 {
+    width: 110px;
+    height: 221px;
+    position: relative;
+  }
+  .ellipse6 {
+    width: 110px;
+    height: 110px;
+    position: relative;
+    align-self: flex-start;
+  }
+  .ellipse7 {
+    width: 220px;
+    height: 110px;
+    left: 60.9px;
+    top: 110px;
+    position: absolute;
+  }
+  .text14 {
+    left: 135px;
+    top: 95.3px;
+    position: absolute;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .whiteFlexColumn2 {
+    height: 404px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-end;
+    margin: 0px 41px 7px 0px;
+    padding: 18px 0px;
+    border-radius: 20px;
+    background-color: #ffffff;
+  }
+  .bipolarlinechart {
+    height: 322px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 27.1px 0px 29px 0px;
+  }
+  .flexRow8 {
+    gap: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-self: stretch;
+    align-items: center;
+    margin: 0px 0px 8.95px 0px;
+    padding: 0px 33.8px 0px 29.9px;
+  }
+  .flexColumn7 {
+    height: 23.3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
+  }
+  .ellipse1 {
+    height: 23.3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 9.66px;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/Cv4zzIzVtujjbC6kCZet.svg");
+  }
+  .whiteRectangle2 {
+    height: 3.88px;
+    border-radius: 6px;
+    background-color: #ffffff;
+  }
+  .secondaryText {
+    margin: 0px 0px 21.8px 29.9px;
+    color: #4f4f4f;
+    font-size: 12px;
+    font-family: Inter;
+    white-space: nowrap;
+  }
+  .image6 {
+    height: 2px;
+    align-self: stretch;
+    margin: 0px 0px 45.1px 0px;
+  }
+  .flexRow9 {
+    gap: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0px 0px 38px 22px;
+  }
+  .flexColumn9 {
+    width: 21px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text16 {
+    width: 21px;
+    height: 9.94px;
+    margin: 0px 0px 16.1px 0px;
+    color: #4f4f4f;
+    font-size: 9px;
+    font-family: Inter;
+    text-align: right;
+  }
+  .text19 {
+    width: 21px;
+    height: 9.94px;
+    margin: 0px 0px 20.1px 0px;
+    color: #4f4f4f;
+    font-size: 9px;
+    font-family: Inter;
+    text-align: right;
+  }
+  .text20 {
+    width: 17px;
+    height: 10px;
+    align-self: flex-end;
+    margin: 0px 1px 0px 0px;
+    color: #4f4f4f;
+    font-size: 9px;
+    font-family: Inter;
+    text-align: right;
+  }
+  .flexColumn10 {
+    width: 201px;
+    height: 148px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 1px 58.5px 1px 0px;
+  }
+  .flexColumn11 {
+    height: 141px;
+    left: 0px;
+    top: 7.5px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0.5px 0.49px 0.5px 185px;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/JdEHmBW6qw6O4UAIGzjF.svg");
+  }
+  .image7 {
+    width: 74px;
+    height: 26px;
+  }
+  .image8 {
+    width: 122px;
+    height: 85px;
+    left: 0px;
+    top: 64px;
+    position: absolute;
+  }
+  .image9 {
+    height: 113px;
+    position: relative;
+  }
+  .flexRow10 {
+    gap: 17px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0px 0px 0px 30px;
+  }
+  .text21 {
+    width: 98px;
+    height: 17px;
+    font-size: 12px;
+    font-family: Inter;
+  }
+  .text22 {
+    width: 91px;
+    height: 17px;
+    font-size: 12px;
+    font-family: Inter;
+  }
+  .line {
+    width: 3px;
+    height: 856px;
+    align-self: center;
+    margin: 0px 39px 0px 0px;
+  }
+  .flexColumn12 {
+    width: 270px;
+    height: 848px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 4px 0px;
+  }
+  .flexRow13 {
+    gap: 97px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 46px 0px;
+  }
+  .text23 {
+    align-self: flex-start;
+    margin: 12px 0px 0px 0px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .indigoFlexColumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 13px 16px 15px 16px;
+    border-radius: 10px;
+    background-color: #5f75da;
+  }
+  .image10 {
+    height: 23px;
+  }
+  .whiteFlexRow3 {
+    gap: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 44px 0px;
+    padding: 18px 34px 18px 25px;
+    border-radius: 20px;
+    background-color: #ffffff;
+  }
+  .whiteFlexRow5 {
+    gap: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 9px 0px;
+    padding: 18px 34px 18px 25px;
+    border-radius: 20px;
+    background-color: #ffffff;
+  }
+  .whiteFlexRow6 {
+    gap: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 44px 0px;
+    padding: 24px 34px 23px 25px;
+    border-radius: 20px;
+    background-color: #ffffff;
+  }
+  .text33 {
+    width: 129px;
+    align-self: flex-start;
+    margin: 4px 0px 0px 0px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Montserrat;
+  }
+  .whiteFlexRow7 {
+    gap: 19px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 24px 33px 23px 25px;
+    border-radius: 20px;
+    background-color: #ffffff;
+  }
+  
