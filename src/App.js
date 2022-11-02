@@ -1,3 +1,5 @@
+import { RegsitroRoot1 } from "./RegsitroRoot1";
+
 import logo from './logo.svg';
 import './App.css';
 

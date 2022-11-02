@@ -1,0 +1,239 @@
+.regsitroRootRoot {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 0px 0px 0.44px;
+    background-color: #f3f7ff;
+    overflow: hidden;
+  }
+  .design {
+    height: 1058px;
+    gap: 87px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 40px 0px 40px 141px;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/lJU04Dcb69Aei8UzX16k.svg");
+  }
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .image1 {
+    height: 60px;
+  }
+  .flexColumn {
+    width: 1164px;
+    height: 822px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: stretch;
+    padding: 0px 135px 0px 0px;
+  }
+  .flexColumn1 {
+    height: 464px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px 605px 0px 0px;
+  }
+  .text1 {
+    margin: 0px 0px 20px 0px;
+    color: #0d0949;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .paragraph {
+    width: 559px;
+    align-self: stretch;
+    margin: 0px 0px 41px 0px;
+    color: #b3b3b3;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+  }
+  .whiteFlexRow {
+    width: 476px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 0px 17px 0px;
+    padding: 20px 25px 21px 36px;
+    border-radius: 20px;
+    background-color: #ffffff;
+  }
+  .text2 {
+    color: #aeaeae;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Montserrat;
+    line-height: 20px;
+    white-space: nowrap;
+    letter-spacing: 0.2px;
+  }
+  .image2 {
+    width: 21px;
+    height: 13px;
+    align-self: flex-end;
+    margin: 0px 0px 3px 0px;
+  }
+  .whiteText {
+    width: 69px;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px 0px 17px 0px;
+    padding: 20px 435px 21px 33px;
+    color: #aeaeae;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Montserrat;
+    line-height: 20px;
+    text-align: center;
+    white-space: nowrap;
+    letter-spacing: 0.2px;
+    border-radius: 20px;
+    background-color: #ffffff;
+  }
+  .whiteText1 {
+    width: 118px;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px 0px 42px 0px;
+    padding: 20px 383px 21px 36px;
+    color: #aeaeae;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Montserrat;
+    line-height: 20px;
+    white-space: nowrap;
+    letter-spacing: 0.2px;
+    border-radius: 20px;
+    background-color: #ffffff;
+  }
+  .indigoText {
+    width: 108px;
+    height: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 19px 229px 18px 200px;
+    color: #f9f9f9;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Montserrat;
+    white-space: nowrap;
+    border-radius: 20px;
+    background-color: #5f75da;
+  }
+  .footer {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .flexColumn2 {
+    width: 371px;
+    height: 204px;
+    gap: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 101px 0px 0px;
+  }
+  .dbbcdfbaafdPhotoRoom {
+    width: 114px;
+    height: 60px;
+  }
+  .paragraph1 {
+    width: 361px;
+    align-self: flex-end;
+    color: #b3b3b3;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    white-space: pre-wrap;
+  }
+  .flexColumn3 {
+    width: 131px;
+    height: 204px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin: 0px 109px 0px 0px;
+  }
+  .flexColumn4 {
+    width: 154px;
+    height: 182px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px 134px 0px 0px;
+    padding: 11px 0px;
+  }
+  .text9 {
+    align-self: flex-start;
+    margin: 0px 0px 16px 0px;
+    color: #b3b3b3;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .flexColumn5 {
+    width: 142px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 12px 0px 0px;
+  }
+  .text10 {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: #b3b3b3;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .text11 {
+    position: relative;
+    color: #b3b3b3;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    white-space: nowrap;
+  }
+  .flexColumn6 {
+    width: 164px;
+    height: 182px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 11px 0px;
+  }
+  .imageCoba {
+    width: 788px;
+    height: 636px;
+    left: 511px;
+    top: 0px;
+    position: absolute;
+  }

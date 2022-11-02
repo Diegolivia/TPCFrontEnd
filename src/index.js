@@ -1,9 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import WebFont from "webfontloader";
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+WebFont.load({
+  google: {
+    families: ["Poppins", "Montserrat:600,700,500"],
+  },
+});
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
